@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "TaskManagement.DataBase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "TaskManagement.Utilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TaskManagement.DataBase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskManagement.DataBase.dll": {}
+        }
+      },
+      "TaskManagement.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TaskManagement.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskManagement.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskManagement.DataBase/1.0.0": {
+      "type": "project",
+      "path": "../TaskManagement.DataBase/TaskManagement.DataBase.csproj",
+      "msbuildProject": "../TaskManagement.DataBase/TaskManagement.DataBase.csproj"
+    },
+    "TaskManagement.Utilities/1.0.0": {
+      "type": "project",
+      "path": "../TaskManagement.Utilities/TaskManagement.Utilities.csproj",
+      "msbuildProject": "../TaskManagement.Utilities/TaskManagement.Utilities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "TaskManagement.DataBase >= 1.0.0",
+      "TaskManagement.Utilities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\prasanth.ganta\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.Services\\TaskManagement.Services.csproj",
+      "projectName": "TaskManagement.Services",
+      "projectPath": "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.Services\\TaskManagement.Services.csproj",
+      "packagesPath": "C:\\Users\\prasanth.ganta\\.nuget\\packages\\",
+      "outputPath": "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\prasanth.ganta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Users\\prasanth.ganta\\AppData\\Roaming\\NuGet\\nuget.org": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.DataBase\\TaskManagement.DataBase.csproj": {
+              "projectPath": "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.DataBase\\TaskManagement.DataBase.csproj"
+            },
+            "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.Utilities\\TaskManagement.Utilities.csproj": {
+              "projectPath": "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.Utilities\\TaskManagement.Utilities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
