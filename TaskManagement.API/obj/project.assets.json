@@ -482,35 +482,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\prasanth.ganta\\.nuget\\packages\\": {}
+    "C:\\Users\\prasa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.API\\TaskManagement.API.csproj",
+      "projectUniqueName": "P:\\tms2\\Task-Management-System\\TaskManagement.API\\TaskManagement.API.csproj",
       "projectName": "TaskManagement.API",
-      "projectPath": "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.API\\TaskManagement.API.csproj",
-      "packagesPath": "C:\\Users\\prasanth.ganta\\.nuget\\packages\\",
-      "outputPath": "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.API\\obj\\",
+      "projectPath": "P:\\tms2\\Task-Management-System\\TaskManagement.API\\TaskManagement.API.csproj",
+      "packagesPath": "C:\\Users\\prasa\\.nuget\\packages\\",
+      "outputPath": "P:\\tms2\\Task-Management-System\\TaskManagement.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\prasanth.ganta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\prasa\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Users\\prasanth.ganta\\AppData\\Roaming\\NuGet\\nuget.org": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.DataBase\\TaskManagement.DataBase.csproj": {
-              "projectPath": "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.DataBase\\TaskManagement.DataBase.csproj"
+            "P:\\tms2\\Task-Management-System\\TaskManagement.DataBase\\TaskManagement.DataBase.csproj": {
+              "projectPath": "P:\\tms2\\Task-Management-System\\TaskManagement.DataBase\\TaskManagement.DataBase.csproj"
             },
-            "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.Services\\TaskManagement.Services.csproj": {
-              "projectPath": "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.Services\\TaskManagement.Services.csproj"
+            "P:\\tms2\\Task-Management-System\\TaskManagement.Services\\TaskManagement.Services.csproj": {
+              "projectPath": "P:\\tms2\\Task-Management-System\\TaskManagement.Services\\TaskManagement.Services.csproj"
             }
           }
         }
@@ -554,7 +554,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

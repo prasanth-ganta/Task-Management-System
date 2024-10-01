@@ -8,25 +8,25 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\prasanth.ganta\\.nuget\\packages\\": {}
+    "C:\\Users\\prasa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.Utilities\\TaskManagement.Utilities.csproj",
+      "projectUniqueName": "P:\\tms2\\Task-Management-System\\TaskManagement.Utilities\\TaskManagement.Utilities.csproj",
       "projectName": "TaskManagement.Utilities",
-      "projectPath": "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.Utilities\\TaskManagement.Utilities.csproj",
-      "packagesPath": "C:\\Users\\prasanth.ganta\\.nuget\\packages\\",
-      "outputPath": "C:\\Dotnet_Prac\\TaskManagementSystem\\TaskManagement.Utilities\\obj\\",
+      "projectPath": "P:\\tms2\\Task-Management-System\\TaskManagement.Utilities\\TaskManagement.Utilities.csproj",
+      "packagesPath": "C:\\Users\\prasa\\.nuget\\packages\\",
+      "outputPath": "P:\\tms2\\Task-Management-System\\TaskManagement.Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\prasanth.ganta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\prasa\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Users\\prasanth.ganta\\AppData\\Roaming\\NuGet\\nuget.org": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

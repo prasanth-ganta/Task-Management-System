@@ -9,3 +9,15 @@ C:\Dotnet_Prac\TaskManagementSystem\TaskManagement.Utilities\obj\Debug\net8.0\Ta
 C:\Dotnet_Prac\TaskManagementSystem\TaskManagement.Utilities\obj\Debug\net8.0\refint\TaskManagement.Utilities.dll
 C:\Dotnet_Prac\TaskManagementSystem\TaskManagement.Utilities\obj\Debug\net8.0\TaskManagement.Utilities.pdb
 C:\Dotnet_Prac\TaskManagementSystem\TaskManagement.Utilities\obj\Debug\net8.0\ref\TaskManagement.Utilities.dll
+P:\tms2\Task-Management-System\TaskManagement.Utilities\bin\Debug\net8.0\TaskManagement.Utilities.deps.json
+P:\tms2\Task-Management-System\TaskManagement.Utilities\bin\Debug\net8.0\TaskManagement.Utilities.dll
+P:\tms2\Task-Management-System\TaskManagement.Utilities\bin\Debug\net8.0\TaskManagement.Utilities.pdb
+P:\tms2\Task-Management-System\TaskManagement.Utilities\obj\Debug\net8.0\TaskManagement.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+P:\tms2\Task-Management-System\TaskManagement.Utilities\obj\Debug\net8.0\TaskManagement.Utilities.AssemblyInfoInputs.cache
+P:\tms2\Task-Management-System\TaskManagement.Utilities\obj\Debug\net8.0\TaskManagement.Utilities.AssemblyInfo.cs
+P:\tms2\Task-Management-System\TaskManagement.Utilities\obj\Debug\net8.0\TaskManagement.Utilities.csproj.CoreCompileInputs.cache
+P:\tms2\Task-Management-System\TaskManagement.Utilities\obj\Debug\net8.0\TaskManagement.Utilities.sourcelink.json
+P:\tms2\Task-Management-System\TaskManagement.Utilities\obj\Debug\net8.0\TaskManagement.Utilities.dll
+P:\tms2\Task-Management-System\TaskManagement.Utilities\obj\Debug\net8.0\refint\TaskManagement.Utilities.dll
+P:\tms2\Task-Management-System\TaskManagement.Utilities\obj\Debug\net8.0\TaskManagement.Utilities.pdb
+P:\tms2\Task-Management-System\TaskManagement.Utilities\obj\Debug\net8.0\ref\TaskManagement.Utilities.dll

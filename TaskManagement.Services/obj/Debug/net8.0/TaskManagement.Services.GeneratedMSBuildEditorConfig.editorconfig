@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaskManagement.Services
-build_property.ProjectDir = C:\Dotnet_Prac\TaskManagementSystem\TaskManagement.Services\
+build_property.ProjectDir = P:\tms2\Task-Management-System\TaskManagement.Services\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

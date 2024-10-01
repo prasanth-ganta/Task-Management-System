@@ -13,3 +13,12 @@ C:\Dotnet_Prac\TaskManagementSystem\TaskManagement.Services\obj\Debug\net8.0\Tas
 C:\Dotnet_Prac\TaskManagementSystem\TaskManagement.Services\obj\Debug\net8.0\refint\TaskManagement.Services.dll
 C:\Dotnet_Prac\TaskManagementSystem\TaskManagement.Services\obj\Debug\net8.0\TaskManagement.Services.pdb
 C:\Dotnet_Prac\TaskManagementSystem\TaskManagement.Services\obj\Debug\net8.0\ref\TaskManagement.Services.dll
+P:\tms2\Task-Management-System\TaskManagement.Services\obj\Debug\net8.0\TaskManagement.Services.csproj.AssemblyReference.cache
+P:\tms2\Task-Management-System\TaskManagement.Services\obj\Debug\net8.0\TaskManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+P:\tms2\Task-Management-System\TaskManagement.Services\obj\Debug\net8.0\TaskManagement.Services.AssemblyInfoInputs.cache
+P:\tms2\Task-Management-System\TaskManagement.Services\obj\Debug\net8.0\TaskManagement.Services.AssemblyInfo.cs
+P:\tms2\Task-Management-System\TaskManagement.Services\obj\Debug\net8.0\TaskManagement.Services.csproj.CoreCompileInputs.cache
+P:\tms2\Task-Management-System\TaskManagement.Services\obj\Debug\net8.0\TaskManagement.Services.sourcelink.json
+P:\tms2\Task-Management-System\TaskManagement.Services\obj\Debug\net8.0\TaskManagement.Services.dll
+P:\tms2\Task-Management-System\TaskManagement.Services\obj\Debug\net8.0\refint\TaskManagement.Services.dll
+P:\tms2\Task-Management-System\TaskManagement.Services\obj\Debug\net8.0\TaskManagement.Services.pdb

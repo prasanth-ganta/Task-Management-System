@@ -1,0 +1,16 @@
+P:\tms2\Task-Management-System\TaskManagement.DataBase\bin\Debug\net8.0\TaskManagement.DataBase.deps.json
+P:\tms2\Task-Management-System\TaskManagement.DataBase\bin\Debug\net8.0\TaskManagement.DataBase.dll
+P:\tms2\Task-Management-System\TaskManagement.DataBase\bin\Debug\net8.0\TaskManagement.DataBase.pdb
+P:\tms2\Task-Management-System\TaskManagement.DataBase\bin\Debug\net8.0\TaskManagement.Utilities.dll
+P:\tms2\Task-Management-System\TaskManagement.DataBase\bin\Debug\net8.0\TaskManagement.Utilities.pdb
+P:\tms2\Task-Management-System\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.csproj.AssemblyReference.cache
+P:\tms2\Task-Management-System\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+P:\tms2\Task-Management-System\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.AssemblyInfoInputs.cache
+P:\tms2\Task-Management-System\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.AssemblyInfo.cs
+P:\tms2\Task-Management-System\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.csproj.CoreCompileInputs.cache
+P:\tms2\Task-Management-System\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.sourcelink.json
+P:\tms2\Task-Management-System\TaskManagement.DataBase\obj\Debug\net8.0\TaskMana.B398A4F4.Up2Date
+P:\tms2\Task-Management-System\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.dll
+P:\tms2\Task-Management-System\TaskManagement.DataBase\obj\Debug\net8.0\refint\TaskManagement.DataBase.dll
+P:\tms2\Task-Management-System\TaskManagement.DataBase\obj\Debug\net8.0\TaskManagement.DataBase.pdb
+P:\tms2\Task-Management-System\TaskManagement.DataBase\obj\Debug\net8.0\ref\TaskManagement.DataBase.dll

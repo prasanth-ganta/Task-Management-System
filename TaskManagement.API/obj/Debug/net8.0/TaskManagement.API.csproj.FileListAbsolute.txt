@@ -34,3 +34,6 @@ C:\Dotnet_Prac\TaskManagementSystem\TaskManagement.API\obj\Debug\net8.0\refint\T
 C:\Dotnet_Prac\TaskManagementSystem\TaskManagement.API\obj\Debug\net8.0\TaskManagement.API.pdb
 C:\Dotnet_Prac\TaskManagementSystem\TaskManagement.API\obj\Debug\net8.0\TaskManagement.API.genruntimeconfig.cache
 C:\Dotnet_Prac\TaskManagementSystem\TaskManagement.API\obj\Debug\net8.0\ref\TaskManagement.API.dll
+P:\tms2\Task-Management-System\TaskManagement.API\obj\Debug\net8.0\TaskManagement.API.dll
+P:\tms2\Task-Management-System\TaskManagement.API\obj\Debug\net8.0\refint\TaskManagement.API.dll
+P:\tms2\Task-Management-System\TaskManagement.API\obj\Debug\net8.0\TaskManagement.API.pdb
